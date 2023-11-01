@@ -5,7 +5,7 @@ import os
 import re
 import asyncio
 import time
-from AarohiX import app
+from VipX import app
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from strings import get_command
