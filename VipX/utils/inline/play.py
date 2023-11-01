@@ -34,7 +34,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     elif 80 <= vip < 95:
         bar = "————————◉—"
     else:
-        bar = "——Jai——Shree——Ram———◉"
+        bar = "—————————◉"
 
     buttons = [
         [
